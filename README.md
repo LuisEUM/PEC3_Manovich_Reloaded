@@ -35,8 +35,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* GeoGuessr (2023). https://www.geoguessr.com/
-* Pokémon GO (2023). https://www.geoguessr.com/
+* GeoGuessr (2023). [https://www.geoguessr.com/](https://pokemongolive.com/?hl=es "Web de GeoGuessr")
+* Pokémon GO (2023). [https://pokemongolive.com/?hl=es](https://pokemongolive.com/?hl=es "Web de Pokémon Go!") 
 
 ----
 
