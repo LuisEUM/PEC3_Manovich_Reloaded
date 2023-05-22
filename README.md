@@ -20,8 +20,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Caso 1 - Pokémon Go
 ![Pokémon Go](https://github.com/LuisEUM/PEC3_Manovich_Reloaded/blob/main//Resources/img/GeoGuessr%20Web%20-%20Modos%20Clásico%20Ejemplo%203.png) 
-~Interfaz de Geolocalización de Pokémon Go~
-
 <sub>Interfaz de Geolocalización de Pokémon Go</sub>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -29,8 +27,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Caso 2 - GeoGuessr 
 ![Geoguessr](https://github.com/LuisEUM/PEC3_Manovich_Reloaded/blob/main/Resources/img/GeoGuessr%20Web%20-%20Modos%20Cl%C3%A1sico%20Ejemplo%202.png) 
-
-~Interfaz de Geolocalización de GeoGuessr~
 <sub>Interfaz de Geolocalización de GeoGuessr</sub>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
