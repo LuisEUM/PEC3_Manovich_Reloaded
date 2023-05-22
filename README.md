@@ -16,9 +16,6 @@ Fecha: 22/05/2023
 
 Hablare de Geolocalización, Realidad Virtual, como ser un ejemplo de hibridración, la tendencia del uso de la geolocaclización para realizar hibridración y generar experiencias más inversivas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
 ## Caso 1 - Pokémon Go
 ![Pokémon Go](https://github.com/LuisEUM/PEC3_Manovich_Reloaded/blob/main//Resources/img/Pokem%C3%B3n%20Go!%20-%20Game%201%20mika-baumeister-aEKwSdX5pJU-unsplash.png) 
 <sub>Interfaz de Geolocalización de Pokémon Go</sub>
@@ -52,6 +49,8 @@ Fusión de tecnología de mapeo y juego interactivo. Su principal atrativo es la
 *  Wikipedia (11 de mayo de 2023) Google Street View. Wikipedia [https://en.wikipedia.org/w/index.php?title=Google_Street_View&oldid=1154311377](https://en.wikipedia.org/w/index.php?title=Google_Street_View&oldid=1154311377 "Google Street View") 
 * Wikipedia (02 de diciembre de 2022) Geolocalización. Wikipedia [https://es.wikipedia.org/w/index.php?title=Geolocalizaci%C3%B3n&oldid=147679281](https://es.wikipedia.org/w/index.php?title=Geolocalizaci%C3%B3n&oldid=147679281 "Geolocalización") 
 * R. Sole (04 diciembre 2017) Niantic leaves Google Maps in Pokémon Go, to use OpenStreetMaps. Hard Waresfera [https://hardwaresfera.com/en/noticias/niantic-deja-los-mapas-google-pokemon-go-usar-openstreetmaps/](https://hardwaresfera.com/en/noticias/niantic-deja-los-mapas-google-pokemon-go-usar-openstreetmaps/ "Niantic leaves Google Maps in Pokémon Go, to use OpenStreetMaps") 
+* F. Adell (2023) Remediación, multimedia e hibridación de los medios. Universitat Oberta de Catalunya [ http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/]( http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ "Remediación, multimedia e hibridación de los medios") 
+
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
