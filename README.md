@@ -1,6 +1,6 @@
 # La hibridación y la Industria de los videojuegos :video_game: en el siglo XXI
-## PEC3: Visionando el futuro con las gafas de Manovich 
-### Recurso de aprendizaje de Cultura Digital 
+## PEC3: Visionando el futuro con las gafas :eyeglasses: de Manovich 
+### Recurso de aprendizaje de Cultura Digital :scroll:
 
 Autor: Luis Eduardo Urdaneta Martucci
 Fecha: 22/05/2023
@@ -57,7 +57,7 @@ GeoGuessr usa imágenes realistas de Google Street View, lo que brinda a los jug
 
 En resumen, GeoGuessr es un ejemplo de hibridación en el que se combina la tecnología de mapeo y la geolocalización con el juego interactivo para crear una experiencia de adivinanza de ubicaciones. El juego permite a los jugadores explorar el mundo virtual a través de imágenes reales y desafiar sus habilidades de reconocimiento de lugares.
 
-### :card_index: Pokémon Go vs GeoGuessr 
+### :boxing_glove: Pokémon Go vs GeoGuessr 
 
 | Aspectos       | Pokémon Go                                                           | Geoguessr                                                                                 |
 |----------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ En resumen, GeoGuessr es un ejemplo de hibridación en el que se combina la tecn
 | Interfaz       | Pantalla táctil, gestos y movimientos físicos                        | Pantalla táctil, clic y arrastre                                                          |
 | Socialización  | Juego de interacción y colaboración entre jugadores                  | Juego competitivo individual o mutlijugador                                               |
 
-### :memo: Conclusión
+## :memo: Conclusión
 
 En conclusión, la hibridación ha demostrado ser un factor clave en la evolución de la industria de los videojuegos en el siglo XXI. La combinación de diferentes géneros, plataformas y tecnologías ha dado lugar a experiencias de juego más ricas y diversas para los jugadores, donde el mundo real y el virtual se entrelazan para brindarnos una mejor experiencia. Esta tendencia ha sido impulsada por los avances en la conectividad, la potencia de procesamiento y la accesibilidad de los dispositivos, lo que ha permitido a los desarrolladores explorar nuevas formas de fusionar elementos de diferentes tipos de juegos.
 
