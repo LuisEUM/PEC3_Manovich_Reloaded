@@ -76,7 +76,7 @@ Tanto Pokémon Go como GeoGuessr son ejemplos destacados de hibridación en la i
 
 En resumen, la hibridación ha impulsado la evolución de la industria de los videojuegos en el siglo XXI, ofreciendo experiencias de juego más diversas y cautivadoras. Esta tendencia ha influido en el diseño, la narrativa y el alcance de los videojuegos, abriendo nuevas oportunidades tanto para los desarrolladores como para los jugadores. La hibridación continuará desempeñando un papel importante en el futuro de los videojuegos, permitiendo la creación de experiencias cada vez más inmersivas e innovadoras.
 
-### Referencias y Bibliografía
+## :paperclip: Referencias y Bibliografía
 * Manovich, L. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 * GeoGuessr. (2023). Recuperado el 22 de mayo de 2023, de https://www.geoguessr.com/
 * Pokémon GO. (2023). Recuperado el 22 de mayo de 2023, de https://pokemongolive.com/?hl=es
