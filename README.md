@@ -70,16 +70,11 @@ En resumen, GeoGuessr es un ejemplo de hibridación en el que se combina la tecn
 
 ### Conclusión
 
-Tanto Pokémon Go como GeoGuessr son ejemplos destacados de hibridación en la industria de los videojuegos. Ambos juegos utilizan la geolocalización como base para crear experiencias inmersivas y únicas.
+En conclusión, la hibridación ha demostrado ser un factor clave en la evolución de la industria de los videojuegos en el siglo XXI. La combinación de diferentes géneros, plataformas y tecnologías ha dado lugar a experiencias de juego más ricas y diversas para los jugadores, donde el mundo real y el virtual se entrelazan para brindarnos una mejor experiencia. Esta tendencia ha sido impulsada por los avances en la conectividad, la potencia de procesamiento y la accesibilidad de los dispositivos, lo que ha permitido a los desarrolladores explorar nuevas formas de fusionar elementos de diferentes tipos de juegos.
 
-Pokémon Go combina la geolocalización con la realidad aumentada, permitiendo a los jugadores buscar y capturar Pokémon en el mundo real a través de sus dispositivos móviles. GeoGuessr, por otro lado, utiliza la geolocalización y las imágenes de Google Street View para desafiar a los jugadores a adivinar la ubicación de diferentes lugares del mundo.
+Tanto Pokémon Go como GeoGuessr son ejemplos destacados de hibridación en la industria de los videojuegos. Ambos juegos utilizan la geolocalización como base para crear experiencias inmersivas y únicas. Estos casos demuestran cómo la hibridación puede enriquecer las experiencias mediáticas al combinar diferentes tecnologías y medios de manera coherente. La geolocalización se ha convertido en una herramienta clave en la creación de experiencias más inmersivas, y su tendencia a ser empleada para la hibridación es cada vez más evidente.
 
-Estos casos demuestran cómo la hibridación puede enriquecer las experiencias mediáticas al combinar diferentes tecnologías y medios de manera coherente. La geolocalización se ha convertido en una herramienta clave en la creación de experiencias más inmersivas, y su tendencia a ser utilizada para la hibridación es cada vez más evidente.
-
-En el siglo XXI, la hibridación se ha vuelto fundamental en el desarrollo de nuevas formas de entretenimiento y comunicación. La combinación de diferentes tecnologías y medios nos ha llevado a experimentar experiencias mediáticas más ricas y envolventes, donde el mundo real y el virtual se entrelazan para brindarnos
-
-
-
+En resumen, la hibridación ha impulsado la evolución de la industria de los videojuegos en el siglo XXI, ofreciendo experiencias de juego más diversas y cautivadoras. Esta tendencia ha influido en el diseño, la narrativa y el alcance de los videojuegos, abriendo nuevas oportunidades tanto para los desarrolladores como para los jugadores. La hibridación continuará desempeñando un papel importante en el futuro de los videojuegos, permitiendo la creación de experiencias cada vez más inmersivas e innovadoras.
 
 ### Referencias y Bibliografía
 * Manovich, L. (2013). El Software toma el mando. Barcelona: Editorial UOC.
