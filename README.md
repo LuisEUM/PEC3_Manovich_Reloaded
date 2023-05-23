@@ -5,7 +5,7 @@
 Autor: Luis Eduardo Urdaneta Martucci
 Fecha: 22/05/2023
 
-![Cultura Digital - La hibridración y la Industria de los videojuegos en el siglo XXI](https://github.com/LuisEUM/PEC3_Manovich_Reloaded/blob/main/Resources/img/Intro-%20Geolocalizaci%C3%B3n%20nasa-1lfI7wkGWZ4-unsplash.jpg) 
+![Cultura Digital - La hibridración y la Industria de los videojuegos en el siglo XXI](https://github.com/LuisEUM/PEC3_Manovich_Reloaded/blob/main/Resources/img/Intro%20-%20Geolocalizaci%C3%B3n%20nasa-1lfI7wkGWZ4-unsplash.jpg) 
 <sub>Foto de <a href="https://unsplash.com/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> en <a href="https://unsplash.com/es/fotos/1lfI7wkGWZ4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sub>
   
 
